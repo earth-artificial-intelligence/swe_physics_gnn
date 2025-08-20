@@ -1,0 +1,391 @@
+[{
+  "history_id" : "ytOEskSt0R2L",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\nannual_aqi_by_county_2017.csv\nannual_aqi_by_county_2017.zip\nannual_aqi_by_county_2018.csv\nannual_aqi_by_county_2018.zip\nannual_aqi_by_county_2019.csv\nannual_aqi_by_county_2019.zip\nannual_aqi_by_county_2020.csv\nannual_aqi_by_county_2020.zip\nannual_aqi_by_county_2021.csv\nannual_aqi_by_county_2021.zip\nbest_gcn_model.pth\ncleaned_cancer_data.csv\nclimatology\ncube_os_backup\ndata_222235.csv\ngat_training_data_west.pt\ngnn_2graph.pt\ngnn_3states.pt\ngnn_date.pt\ngnn_graph_15day_bins_final.pt\ngnn_graph_final_1_1.pt\ngnn_graph_final_2_2.pt\ngnn_graph_final_all_data.pt\ngnn_graph_final_reduced_wa_4.pt\ngnn_graph_final_with_time.pt\ngnn_graph_fixed.pt\ngnn_graph.pt\ngnn_graph_wa_12_bins.pt\ngnn_graph_wa_date_reduced_3.pt\ngnn_graph_washington_state_date_12bins.pt\ngnn_graph_washington_state_date.pt\ngnn_graph_washington_state_fixed.pt\ngnn_graph_washington_state_reduced.pt\ngnn_graph_wa_wout_bins.pt\ngnn_optimized.pt\ngnn_timeaware6.pt\ngnn_timeaware7.pt\ngnn_timeaware8.pt\ngnn_timeaware.pt\ngraph_data_wa_date_2.pt\ngraph_data_wa_date.pt\ngw-workspace\nh2_bak\nincd.csv\nmerged_annual_aqi_by_county.csv\nmerged_aqi_cancer.csv\nmerra-2\nradon_zones.csv\nradon_zones.xls\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\nupdated_cleaned_cancer.csv\n",
+  "history_begin_time" : 1741874252210,
+  "history_end_time" : 1741874253239,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "l760v3srag6",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\nbest_gcn_model.pth\nclimatology\ncube_os_backup\ndata_222235.csv\ngat_training_data_west.pt\ngnn_graph_final_1_1.pt\ngnn_graph_final_2_2.pt\ngnn_graph_final_all_data.pt\ngnn_graph_final_with_time.pt\ngnn_graph.pt\ngnn_graph_washington_state_date_12bins.pt\ngnn_graph_washington_state_date.pt\ngnn_graph_washington_state_fixed.pt\ngnn_graph_washington_state_reduced.pt\ngw-workspace\nh2_bak\nincd.csv\nmerra-2\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1741409313428,
+  "history_end_time" : 1741409321062,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : "100001",
+  "indicator" : "Stopped"
+},{
+  "history_id" : "htts277n2rn",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\nbest_gcn_model.pth\nclimatology\ncube_os_backup\ndata_222235.csv\ngnn_graph_final_1_1.pt\ngw-workspace\nh2_bak\nincd.csv\nmerra-2\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1741212674313,
+  "history_end_time" : 1741212676148,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : "100001",
+  "indicator" : "Done"
+},{
+  "history_id" : "wo6oHjzSuRqy",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\nbest_gcn_model.pth\nclimatology\ncube_os_backup\ndata_222235.csv\ngat_spatial_training_data_filtered.pt\ngw-workspace\nh2_bak\nincd.csv\nmerra-2\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1740705421350,
+  "history_end_time" : 1740705422468,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "HtSlbjzZuB1t",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\nbest_gcn_model.pth\nclimatology\ncube_os_backup\ngat_spatial_training_data_filtered.pt\ngw-workspace\nh2_bak\nincd.csv\nmerra-2\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1740631412562,
+  "history_end_time" : 1740631413578,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "X1CsrIRWfNJE",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/X1CsrIRWfNJE\"): error=2, No such file or directory",
+  "history_begin_time" : 1740628094014,
+  "history_end_time" : 1740628095051,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "drdUyu9P9aOk",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/drdUyu9P9aOk\"): error=2, No such file or directory",
+  "history_begin_time" : 1740623638761,
+  "history_end_time" : 1740623640029,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "twycqoefafqI",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/twycqoefafqI\"): error=2, No such file or directory",
+  "history_begin_time" : 1740623070042,
+  "history_end_time" : 1740623071074,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "r2xZhpmpwPFg",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/r2xZhpmpwPFg\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622751224,
+  "history_end_time" : 1740622752252,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "7cuocHsPZmTZ",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/7cuocHsPZmTZ\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622707052,
+  "history_end_time" : 1740622708080,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "lwaQFfzxRJOC",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/lwaQFfzxRJOC\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622602463,
+  "history_end_time" : 1740622603500,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "tye5cVT6h2mK",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/tye5cVT6h2mK\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622538469,
+  "history_end_time" : 1740622539497,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "pxr6T2spmf5M",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/pxr6T2spmf5M\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622534586,
+  "history_end_time" : 1740622535890,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "ADYlPms2mrnS",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/ADYlPms2mrnS\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622477503,
+  "history_end_time" : 1740622478566,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "Riz4y4ihw8I7",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/Riz4y4ihw8I7\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622425304,
+  "history_end_time" : 1740622426339,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "RaOY28oWtg7u",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/RaOY28oWtg7u\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622403238,
+  "history_end_time" : 1740622404266,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "JzmzIGjWB1GK",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/JzmzIGjWB1GK\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622393540,
+  "history_end_time" : 1740622394570,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "jAJc4u7gSjb1",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "Cannot run program \"bash\" (in directory \"/home/geo2021/gw-workspace/jAJc4u7gSjb1\"): error=2, No such file or directory",
+  "history_begin_time" : 1740622032787,
+  "history_end_time" : 1740622033823,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "1JsGEivWVhZM",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\nbest_gcn_model.pth\nclimatology\ncube_os_backup\ngat_spatial_training_data_filtered.pt\nh2_bak\nincd.csv\nmerra-2\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1740618420598,
+  "history_end_time" : 1740618421743,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "ZGF83kcUAC3z",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\ngat_training_data_west.pt\ngcn_trained_model.pth\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1740026413836,
+  "history_end_time" : 1740026414973,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "kaD7WUTG6Uzx",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\ngat_training_data_west.pt\ngcn_trained_model.pth\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1740026354220,
+  "history_end_time" : 1740026355236,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "lsEXPLZNRF2P",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\ngat_training_data_west.pt\ngcn_trained_model.pth\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1740019334471,
+  "history_end_time" : 1740019335575,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "LIqn8TktmUrz",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\ngat_training_data_sampled.pt\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1739461875615,
+  "history_end_time" : 1739461876679,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "jXxmDWZrhoB2",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\ngat_training_data_sampled.pt\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1739318499810,
+  "history_end_time" : 1739318521603,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "Mw6ol5jlahMS",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\ngat_training_data_sampled.pt\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1739318498641,
+  "history_end_time" : 1739318521159,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "P1o7zZ5WYWpe",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\n\nls\n\n",
+  "history_output" : "ai-models\ncube_os_backup\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1739316254900,
+  "history_end_time" : 1739316255922,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "ygDYJtHMZZL6",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\nls\n\nfind /media/volume1/ -type f -name \"snotel_ghcnd_stations_4yrs_all_cols_log10.csv\"\n\n\n",
+  "history_output" : "ai-models\ncube_os_backup\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n\nStream closed",
+  "history_begin_time" : 1739316203849,
+  "history_end_time" : 1739316395953,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Failed"
+},{
+  "history_id" : "zgJwyIfI795G",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\nrm -f snotel_ghcnd_stations_4yrs_all_cols_log10.csv.1\n\nls",
+  "history_output" : "ai-models\ncube_os_backup\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nswe\n",
+  "history_begin_time" : 1739316092353,
+  "history_end_time" : 1739316094133,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "AqkfgjbQdgVq",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\nls",
+  "history_output" : "ai-models\ncube_os_backup\nh2_bak\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv\nsnotel_ghcnd_stations_4yrs_all_cols_log10.csv.1\nswe\n",
+  "history_begin_time" : 1739316034379,
+  "history_end_time" : 1739316035402,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "E4MqnUi4bV1g",
+  "history_input" : "#!/bin/bash\n\n#fetch data\nwget -q https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -P /media/volume1/\n\n\ncd /media/volume1/\n\ncd swe",
+  "history_output" : "",
+  "history_begin_time" : 1739315958351,
+  "history_end_time" : 1739315993220,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "Thv6ZAve3Ppl",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -d /media/volume1/\n\n\ncd /media/volume1/\n\ncd swe",
+  "history_output" : "",
+  "history_begin_time" : 1739296829040,
+  "history_end_time" : 1739296830201,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "r3sYtrE3Yr5e",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -d /media/volume1/\n\n\ncd /media/volume1/\n\nls",
+  "history_output" : "ai-models\ncube_os_backup\nswe\n",
+  "history_begin_time" : 1739296817490,
+  "history_end_time" : 1739296818502,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "ptR7J1pg0rPz",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -d /media/volume1/\n\n\ncd /media/volume1/\n\ncd swe\n\nls swe\n\npwd swe",
+  "history_output" : "ls: cannot access 'swe': No such file or directory\n/media/volume1/swe\n",
+  "history_begin_time" : 1739296776207,
+  "history_end_time" : 1739296777237,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "oeZZ5FReQhH7",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -d /media/volume1/\n\n\ncd /media/volume1/\n\ncd swe",
+  "history_output" : "",
+  "history_begin_time" : 1739296754300,
+  "history_end_time" : 1739296755309,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "VhXTqDARkQcg",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -d /media/volume1/\n\n\ncd /media/volume1/\nls",
+  "history_output" : "ai-models\ncube_os_backup\nswe\n",
+  "history_begin_time" : 1739296687880,
+  "history_end_time" : 1739296688892,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "F5Jd4fhSCUDp",
+  "history_input" : "#!/bin/bash\n\n#fetch data\n# wget https://geobrain.csiss.gmu.edu/swe_forecasting/snotel_ghcnd_stations_4yrs_all_cols_log10.csv -d /media/volume1/\n\n\ncd /media/volume1/\nls",
+  "history_output" : "ai-models\ncube_os_backup\nswe\n",
+  "history_begin_time" : 1739296672061,
+  "history_end_time" : 1739296673106,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : null,
+  "indicator" : "Done"
+},{
+  "history_id" : "tikxmafow5x",
+  "history_input" : null,
+  "history_output" : null,
+  "history_begin_time" : null,
+  "history_end_time" : 1740620047940,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : "100001",
+  "indicator" : "Stopped"
+},{
+  "history_id" : "60h9et2jes4",
+  "history_input" : null,
+  "history_output" : null,
+  "history_begin_time" : null,
+  "history_end_time" : 1740622683636,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : "100001",
+  "indicator" : "Stopped"
+},{
+  "history_id" : "ljovu54vsb6",
+  "history_input" : null,
+  "history_output" : null,
+  "history_begin_time" : null,
+  "history_end_time" : 1741409322371,
+  "history_notes" : null,
+  "history_process" : "77sgmy",
+  "host_id" : "100001",
+  "indicator" : "Stopped"
+}]
